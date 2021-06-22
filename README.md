@@ -2,10 +2,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/Murithijoshua/Rest_like_A_boss">
-    <img src="<img src="http://placeskull.com/g/80/80/" alt="place ape" />" alt="Logo" width="80" height="80">
+<!--     <img src="<img src="http://placeskull.com/g/80/80/" alt="place ape" />" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Reddit_Clone API</h3>
 
   <p align="center">
     This is a Reddit_clone REST API, where one can upvote or  down vote posts.
