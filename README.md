@@ -121,7 +121,7 @@ This is an example of how to list things you need to use the software and how to
    127.0.0.1:8000/api/all
 
    ```
-* You can now vote for a specific post using this. **you can one vote once**
+* You can now vote for a specific post using this. **you can only vote once**
     ```sh
    127.0.0.1:8000/api/all/<int>/Vote 
 
