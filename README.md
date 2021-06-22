@@ -100,15 +100,23 @@ This is an example of how to list things you need to use the software and how to
    cd Rest_like_A_boss
 
    ```
+* create admin account, this will enable you for authetication while doing POST via the API
+    ```sh
+   python manage.py createsuperuser
+
+   ```
+ * do data migrations
+ 
     ```sh
    python manage.py migrate 
 
    ```
+ * now lets wakes this beast from sleep
    ```sh
    python manage.py runserver
 
    ```
-* running this on browser will fetch all data and POST data 
+* Run this on browser will fetch all data and POST data 
     ```sh
    127.0.0.1:8000/api/all
 
@@ -159,7 +167,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+<!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email -->
 
 Project Link: [https://github.com/Murithijoshua/Rest_like_A_boss](https://github.com/Murithijoshua/Rest_like_A_boss)
 
