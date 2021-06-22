@@ -1,22 +1,4 @@
-# Rest_like_A_boss<!--
-
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Issues][issues-shield]][https://github.com/Murithijoshua/Rest_like_A_boss/issues]
-
-
-
-
-<!-- PROJECT LOGO -->
+# Rest_like_A_boss
 <br />
 <p align="center">
   <a href="https://github.com/Murithijoshua/Rest_like_A_boss">
@@ -30,9 +12,9 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Murithijoshua/Rest_like_A_boss">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Murithijoshua/Rest_like_A_boss/issues">Report Bug</a>
     ·
     <a href="https://github.com/Murithijoshua/Rest_like_A_boss/issues">Request Feature</a>
   </p>
@@ -105,7 +87,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Murithijoshua/Rest_like_A_boss.git
    ```
 2. Create virtual enviroment
    ```sh
@@ -149,7 +131,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Murithijoshua/Rest_like_A_boss/issues) for a list of proposed features (and known issues).
 
 
 
@@ -178,7 +160,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Murithijoshua/Rest_like_A_boss](https://github.com/Murithijoshua/Rest_like_A_boss)
 
 
 
@@ -195,15 +177,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Murithijoshua/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/Murithijoshua/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Murithijoshua/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/Murithijoshua/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/Murithijoshua/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/Murithijoshua/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Murithijoshua/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/Murithijoshua/repo/issues
+[license-shield]: https://img.shields.io/github/license/Murithijoshua/repo.svg?style=for-the-badge
+[license-url]: https://github.com/Murithijoshua/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/Murithijoshua
