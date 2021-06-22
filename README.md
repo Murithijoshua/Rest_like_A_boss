@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Murithijoshua/Rest_like_A_boss">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="<img src="http://placeskull.com/g/80/80/" alt="place ape" />" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">project_title</h3>
@@ -52,12 +52,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`Murithi_joshua`, `Rest_like_A_boss`, `@myzaliusjoshua`, `brodiamyzalius@gmail.com`, `Rest_like_A_boss`, `  This is a Reddit_clone REST API, where one can upvote or  down vote posts`
 
 
 ### Built With
@@ -114,6 +108,16 @@ This is an example of how to list things you need to use the software and how to
    python manage.py runserver
 
    ```
+* running this on browser will fetch all data and POST data 
+    ```sh
+   127.0.0.1:8000/api/all
+
+   ```
+* You can now vote for a specific post using this. **you can one vote once**
+    ```sh
+   127.0.0.1:8000/api/all/<int>/Vote 
+
+   ```
 
 
 
@@ -122,10 +126,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
-
+> this is still under_development 
 
 
 <!-- ROADMAP -->
