@@ -115,7 +115,7 @@ This is an example of how to list things you need to use the software and how to
    ``` sh
    touch .env
    ```
- * add thid text to your key
+ * add this text to your .env file
     ```sh
     KEY = 'django-insecure-wf*i)x^#*+f7+r!al*q&qqi&jyww7vi@$*^%7u8xivhwkzv!u@'
     ```
