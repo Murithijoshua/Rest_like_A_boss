@@ -111,6 +111,14 @@ This is an example of how to list things you need to use the software and how to
    python manage.py migrate 
 
    ```
+ * now lets create a file to store all the Secret key
+   ``` sh
+   touch .env
+   ```
+ * add thid text to your key
+    ```sh
+    KEY = 'django-insecure-wf*i)x^#*+f7+r!al*q&qqi&jyww7vi@$*^%7u8xivhwkzv!u@'
+    ```
  * now lets wakes this beast from sleep
    ```sh
    python manage.py runserver
