@@ -9,6 +9,7 @@ from .models import Post, Vote
 class PostSerializer(serializers.ModelSerializer):
     owner = serializers.ReadOnlyField(source ='owner.username')
     owner_id = serializers.ReadOnlyField(source = 'owner.id')
+#vote is not in the Post model so using serializer field we compute number of votes per post
     votes = serializers.SerializerMethodField()
     class Meta:
         model = Post
